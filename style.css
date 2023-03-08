@@ -1,0 +1,14 @@
+
+.cabecalho{background-color: rgb(226, 4, 4);
+    color: aliceblue;
+display: flex;
+justify-content: space-around;}
+.cabecalho-imagem{width: 13%;}
+li {
+    display: inline-block;
+}
+h1{
+margin: 0 32px;
+padding: 90px 0;
+}
+
