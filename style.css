@@ -4,11 +4,12 @@
 display: flex;
 justify-content: space-around;}
 .cabecalho-imagem{width: 13%;}
-li {
-    display: inline-block;
-}
+
 h1{
 margin: 0 32px;
 padding: 90px 0;
+    display: inline-block;
+font-size: 30px;}
+.escola-imagem{
+    width: 20%;
 }
-
