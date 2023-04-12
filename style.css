@@ -20,5 +20,28 @@ li
 font-size: 22px;}
 
 .escola-imagem{
-    width: 20%;}
-    .escola{background-image: linear-gradient(red,white);}
+    width: 120%;}
+
+    .escola
+    {background-image: linear-gradient(red,white);
+    display: flex;
+    justify-content: flex-start;
+align-items:center;
+padding: 10px 0;} 
+
+    .aluno-um{
+        width: 30%;
+
+    }
+
+    .estudante-titulo
+    {
+        text-align: 50px 0;
+        font-size: 40px;
+    }
+
+    
+
+    
+    
+    
